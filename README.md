@@ -28,7 +28,7 @@ To run this project, install it locally using yarn:
 
 ```
 $ git clone https://github.com/CoralineK/react-redux-form.git
-$ cd ./meme-service
+$ cd ./react-redux-form
 $ yarn instal
 $ yarn start
 ```
