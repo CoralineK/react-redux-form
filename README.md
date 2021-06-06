@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Introduction
 
-This is a simple memes scroller with possibility to like or dislike.
+This is a simple of form for restaurant page with examples dishes. Every dish has own special information to fill.
 
 ### Technologies
 
