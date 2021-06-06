@@ -1,0 +1,14 @@
+@import "./reset.scss";
+@import "./form.scss";
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  padding-top: 10vh;
+}

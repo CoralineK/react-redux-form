@@ -1,0 +1,32 @@
+.width {
+  width: 300px;
+}
+
+.duration-label {
+  color: #757575;
+  padding-left: 5px;
+}
+.duration {
+  box-sizing: border-box;
+  width: 300px;
+  padding-top: 15px;
+  display: flex;
+  div ~ div {
+    margin-left: 10px;
+  }
+}
+
+.field-box {
+  margin-top: 20px;
+}
+
+.message {
+  color: red;
+  padding: 5px 0 0 3px;
+  font-size: 12px;
+}
+
+.button-container {
+  text-align: right;
+  margin-top: 20px;
+}
